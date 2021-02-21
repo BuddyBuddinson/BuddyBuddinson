@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BuddyBuddinson
+- 👋 Hi, I’m Francis Lafontaine (@BuddyBuddinson)
 - 👀 I’m interested in finance, comic books, hockey
 - 🌱 I’m currently learning apis
 - 💞️ I’m looking to collaborate on webscraping projects
